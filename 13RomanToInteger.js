@@ -28,6 +28,3 @@ const romanToInt = (s) => {
   return sum;
 };
     }
-  
-
-romanToInt("XIII")
